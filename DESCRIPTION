@@ -1,0 +1,18 @@
+Package: Oncomine
+Title: To clear Oncomine Cancer data
+Version: 0.0.0.9000
+Authors@R: person("ZhangJing", "JinZhi", email = "zj391120@163.com", role = c("aut", "cre"))
+Description: We can use this package to clear Oncomine data.
+Depends: R (>= 3.5.1)
+License: No license
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Imports:
+    stringr (>= 0.5),
+    stringi,
+    textreadr,
+    plotly,
+    tidyr,
+    reshape2,
+    testit
