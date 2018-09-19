@@ -15,4 +15,6 @@ Imports:
     plotly,
     tidyr,
     reshape2,
-    testit
+    testit,
+    venn
+
